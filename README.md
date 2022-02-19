@@ -9,9 +9,9 @@ Developed By: Kazi Fardin Islam Abir (170213) MD. Abdur Razzak Tuhin (170214) MD
 
 Project Manager : Kazi Masudul Alam, Associate Professor CSE Discipline, Khulna University
 
-Project Desciption: This project is integration of two part. One is the judging part and another is the server connection part. We have done the server task with socket programming of JAVA. For compiling and judging we used 'cmd' invoking from java program. The source codes submitted to server are stored in a certain path. Then from that location the code are executed and judged with the correct answer which are also set at certain(Desktop) location. The main two class to be run is login(for contestant) and start(for host). When a user/contestant submits a code and it comes accepted, it is added into the standings with the associated penalty. Thus the contest is constructed.
+Project Desciption: This project is integration of two part. One is the judging part and another is the server connection part. We have done the server task with socket programming of JAVA. For compiling and judging we took the help of windows CMD, invoking it from our java program. When the source codes are being submitted to the server, they got stored in a defined path. Then, from that location the codes are executed and evaluated with the correct answer files which are also present at certain location. The main two classes are: login(for contestant) and start(for host). When a user/contestant submits a code and it comes accepted, it is added into the standings with the associated penalty score. Thus the contest is constructed.
 
-The judge/host can create new user before a contest. He can see the current standings, status. He can terminate the contest anytime he want.
+The judge/host can create new users before a contest. He can see the current standings, status and can also terminate the contest anytime he want.
 
-Youtube Link: https://youtu.be/V2yEvz_b1bw
+Project Demo Link: https://youtu.be/V2yEvz_b1bw
 
